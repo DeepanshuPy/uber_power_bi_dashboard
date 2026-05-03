@@ -82,11 +82,6 @@ To build a business-ready analytics solution that enables stakeholders to:
 
 ---
 
-## 📸 Dashboard Preview
-(Add screenshots here)
-
----
-
 ## 🚀 Conclusion
 This project demonstrates the ability to build a production-level dashboard that delivers actionable insights and supports data-driven decision-making.
 

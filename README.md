@@ -66,8 +66,6 @@ To build a business-ready analytics solution that enables stakeholders to:
 
 ## ⚙️ Challenges & Solutions
 
-- Rebuilt KPI visuals after **Multi-row Card removal (Nov 2025)**
-- Fixed **Power BI UI issues (backgrounds, containers)**
 - Designed a **clean, modern dashboard UI**
 - Implemented **DAX measures for KPIs & segmentation**
 - Optimized performance and report usability
@@ -75,6 +73,7 @@ To build a business-ready analytics solution that enables stakeholders to:
 ---
 
 ## 💡 Key Learnings
+
 - Advanced DAX and data modeling  
 - Real-world dashboard design  
 - Handling Power BI limitations and updates  

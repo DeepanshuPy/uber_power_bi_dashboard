@@ -2,6 +2,8 @@
 
 An interactive Power BI dashboard designed to analyze ride-sharing data and generate business insights across bookings, revenue, customers, vehicles, and locations.
 
+<img width="892" height="501" alt="Uber Dashboard by Deepanshupy" src="https://github.com/user-attachments/assets/0858f4ea-090f-4887-8297-1195c631ecf5" />
+
 ---
 
 ## 🎯 Objective
